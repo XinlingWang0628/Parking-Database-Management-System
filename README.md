@@ -1,6 +1,11 @@
 
 This is a reservation system for parking garages. Users can search for their reservations by phone number and cancel them if they are at least three days in advance. The system retrieves reservation details from a MySQL database, and updates the status of canceled reservations. Administrator can query the available spots and revenue from a garage on given date. The system uses PHP for the server-side scripting and HTML/CSS for the user interface.
 
+
+
+
+
+
 To install / run the application, download the provided .php files (Group_3_PHP_Files) and place them in your already existing php directory, being sure to delete your index.php if one exists. Simply cd to the directory and run “php -S localhost:8080”. Alternatively, you can download the provided php directory (Group_3_PHP_DIR) as a whole and cd to the directory and run “php -S localhost:8080”. 
 
 index.php:
